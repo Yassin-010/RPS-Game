@@ -1,6 +1,5 @@
 using RPS_Game;
 
-
 namespace RPSGameTests
 {
     public class UnitTest1
